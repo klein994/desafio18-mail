@@ -1,16 +1,1 @@
-[2022-08-10T12:33:58.865] [ERROR] dev - TypeError: Cannot read properties of undefined (reading 'forEach')
-    at generateOrder (file:///C:/Users/Francisco%20Filosi/Desktop/Curso_Backend_CoderHouse/Desafios/Desafio%2018/controllers/ordersController.js:10:23)
-    at processTicksAndRejections (node:internal/process/task_queues:96:5)
-[2022-08-10T12:35:13.359] [WARN] dev - User with email alyson.fritsch37@ethereal.email does not exists
-[2022-08-10T12:54:52.590] [ERROR] dev - Error: Order already accepted
-    at daoOrders.acceptOrder (file:///C:/Users/Francisco%20Filosi/Desktop/Curso_Backend_CoderHouse/Desafios/Desafio%2018/daos/daoOrders.js:18:40)
-    at processTicksAndRejections (node:internal/process/task_queues:96:5)
-    at async acceptOrder (file:///C:/Users/Francisco%20Filosi/Desktop/Curso_Backend_CoderHouse/Desafios/Desafio%2018/controllers/ordersController.js:48:23)
-[2022-08-10T13:03:05.104] [ERROR] dev - TypeError: Cannot read properties of undefined (reading 'status')
-    at acceptOrder (file:///C:/Users/Francisco%20Filosi/Desktop/Curso_Backend_CoderHouse/Desafios/Desafio%2018/controllers/ordersController.js:51:13)
-    at processTicksAndRejections (node:internal/process/task_queues:96:5)
-[2022-08-10T13:20:54.606] [ERROR] dev - TypeError: message.sendWhatsappInAccept is not a function
-    at acceptOrder (file:///C:/Users/Francisco%20Filosi/Desktop/Curso_Backend_CoderHouse/Desafios/Desafio%2018/controllers/ordersController.js:52:17)
-    at processTicksAndRejections (node:internal/process/task_queues:96:5)
-[2022-08-10T13:25:35.729] [ERROR] dev - Error al Enviar: Cannot read properties of undefined (reading 'name')
-[2022-08-10T13:30:23.245] [ERROR] dev - Error al Enviar: Assignment to constant variable.
+
